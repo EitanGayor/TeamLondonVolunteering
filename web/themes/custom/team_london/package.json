@@ -32,7 +32,7 @@
     "gulp-sourcemaps": "^2.6.4",
     "gulp-strip-css-comments": "^2.0.0",
     "postcss-reporter": "^6.0.0",
-    "stylelint": "^9.8.0",
+    "stylelint": "^16.1.0",
     "stylelint-config-recommended-scss": "^3.2.0",
     "stylelint-scss": "^3.4.0"
   },
